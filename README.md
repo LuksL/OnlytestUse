@@ -1,3 +1,3 @@
 # OnlytestUse
-test use github '/n'
+test use github '\n'
 Test Branch
